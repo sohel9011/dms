@@ -1,0 +1,6 @@
+{
+  "name": "DMS RUN",
+  "description": "DMS RUN is a fast-paced 3D endless runner game featuring dynamic lanes, jumping, sliding, subway trains, collectible coins, and power-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
